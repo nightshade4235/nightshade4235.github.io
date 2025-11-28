@@ -37,7 +37,7 @@ It offers clear semantics, predictable performance, and a refined approach to lo
 
 ## Demonstration:
 
-## "Hello World" in C:
+### "Hello World" in C:
 
 ```c
 #include <stdio.h>
@@ -50,10 +50,10 @@ int main(){
 }
 ```
 
-## "Hello World" in Cord:
+### "Hello World" in Axiom:
 
 ```c
-#include <biosys.h>
+#include <axiom.h>
  int main(){
 
   printf("Hello World!\n");
