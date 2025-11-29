@@ -5,7 +5,7 @@ nav_order: 3
 description: "The home page for my own text editor."
 ---
 
-# *Axiom : A text editor based on Vim and Neovim, but the only difference is its made by me :)))*
+# *Everfall : A text editor based on Vim and Neovim, but the only difference is its made by me :)))*
 
 **Authors:** Joel Mathew (Nightshade).  
 **Date:** December 2025
