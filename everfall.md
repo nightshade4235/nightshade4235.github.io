@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Everfall
-nav_order: 2
+nav_order: 3
 description: "The home page for my own text editor."
 ---
 
