@@ -12,55 +12,7 @@ description: "The home page for my own text editor."
 
 ---
 
-## **Abstract**
-
-Axiom is a modern, object-oriented systems language built on the foundations of C, designed to be powerful without the historical bloat of C++.  
-It offers clear semantics, predictable performance, and a refined approach to low-level programming.
-
-## **Core Design Principles**
-
-1. **Deterministic, explicit behavior**  
-   No hidden allocations, no magical type conversions, no implicit performance traps.
-
-2. **Objects & Classes without Bloat**  
-   Axiom features classes, methods, inheritance, and interfaces — but avoids deep inheritance chains, implicit casts, template explosion, and macro-driven magic.
-
-3. **Modern Speech, Classic Control**  
-   You get modern tooling and abstractions while keeping full control over memory, layout, and performance.
-
-4. **Static, Strong Typing**  
-   The type system is compile-time enforced and predictable.
-
-5. **Low-level power with higher-level expressiveness**  
-   Ideal for graphics, game engines, scientific computing, and embedded systems.
-
-
-## Demonstration:
-
-### "Hello, World!" in C:
-
-```c
-#include <stdio.h>
-
-int main(){
-
-  printf("Hello, World!\n");
-  
-  return 0;
-}
-```
-
-### "Hello, World!" in Axiom:
-
-```c
-#include <axiom.h>
- int main(){
-
-  writef("Hello, World!\n");
-
-  return 0;
- }
-```
+Same commads as vim
 
 <style>
   .link-container {
