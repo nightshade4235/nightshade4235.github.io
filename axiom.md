@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Axiom
-nav_order: 1
+nav_order: 2
 description: "The home page for a compiler for my language: Axiom"
 ---
 
